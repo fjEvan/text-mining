@@ -1,4 +1,6 @@
-// 20171021  Jiao Feng (Evan)  Data Mining Assignment 2 
+// 20171021  Jiao Feng (Evan)  Data Mining 
+// this program takes input file paper.txt and vocab.txt 
+// and outputs title.txt
 
 import java.util.Scanner; 
 import java.io.File; 
